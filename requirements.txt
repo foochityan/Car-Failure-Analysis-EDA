@@ -1,0 +1,5 @@
+sklearn==1.1.1
+pandas==1.4.2
+numpy==1.22.4
+sqlite3
+matplotlib==3.5.2
