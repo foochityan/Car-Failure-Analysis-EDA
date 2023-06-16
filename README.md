@@ -3,13 +3,8 @@ Email
 
 File Structure
 root
--- src \
- | -- config.py
  - eda.ipynb
--- failure.db
 -- readme.md
--- run.sh
--- requirements.txt
 
 The pipeline consists of 1 class Config. To configure the pipeline parameters, edit config.py with the desired settings before running. The pipeline is ran by executing run.sh.
 
