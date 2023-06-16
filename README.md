@@ -4,7 +4,7 @@ Email
 File Structure
 root
  - eda.ipynb
--- readme.md
+ - readme.md
 
 The pipeline consists of 1 class Config. To configure the pipeline parameters, edit config.py with the desired settings before running. The pipeline is ran by executing run.sh.
 
