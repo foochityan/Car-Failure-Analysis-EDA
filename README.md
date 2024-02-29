@@ -1,6 +1,3 @@
-Fullname
-Email
-
 File Structure
 root
  - eda.ipynb
