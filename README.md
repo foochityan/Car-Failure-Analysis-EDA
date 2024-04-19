@@ -51,7 +51,6 @@ From the EDA conducted, the following errors were corrected.
 
 For Temperature, the histogram of its values showed a clean boundary between 2 groups of values. Within each group, its variance is low. Hence, encoding it into "High" and "Low" temperature would reduce noise in the features.
 
-![[Pasted image 20230115175519.png]]
 After cleaning, there are 9,857 rows and 13 columns.
 
 ### Encoding
